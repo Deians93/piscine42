@@ -1,0 +1,5 @@
+Credentials cache: API:8EB88214-633E-4DE8-B17C-12B38D9799BF
+        Principal: adeiana@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 24 09:53:59 2020  Nov 24 19:53:50 2020  krbtgt/42ROMA.IT@42ROMA.IT
